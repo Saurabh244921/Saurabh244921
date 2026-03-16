@@ -3,7 +3,7 @@
 </p>
 # Hi, I'm Saurabh Kumar 👋
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Backend+Developer;Spring+Boot+Learner;REST+API+Developer;Open+Source+Learner&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer; Backend+Developer;MERN+Stack+Developer+Java+DSA+Learner;REST+API+Developer;Open+Source+Learner&center=true&width=500&height=45">
 </p>
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsaurabh244921&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
@@ -33,11 +33,10 @@ I specialize in **Java development** and have a keen interest in building scalab
 
 ### 🛠 Skills & Tools
 
-* **Programming**: JAVA (Advanced), C (Intermediate), Python (Basic), JavaScript, HTML/CSS
-* **Backend Frameworks**: Spring, Spring Boot, Spring MVC
-* **Mobile Development**: Android SDK, Material Design, Java/Kotlin
+* **Programming**: JAVA (Advanced), C (Intermediate), Python (Basic), JavaScript(intermediate), HTML/CSS
+* **Backend Frameworks**: Nodejs, Expressjs, Spring
 * **Databases**: MySQL, MongoDB
-* **Tools & IDEs**: Git, GitHub, Eclipse, IntelliJ, Apache Tomcat
+* **Tools & IDEs**: Git, GitHub, Vs-Code, Eclipse, IntelliJ, Apache Tomcat
 
 ---
 
