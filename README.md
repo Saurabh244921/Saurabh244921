@@ -3,7 +3,7 @@
 </p>
 # Hi, I'm Saurabh Kumar 👋
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer; Backend+Developer;MERN+Stack+Developer+Java+DSA+Learner;REST+API+Developer;Open+Source+Learner&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer; Backend+Developer;MERN+Stack+Developer;Java+DSA+Learner;REST+API+Developer;Open+Source+Learner&center=true&width=500&height=45">
 </p>
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsaurabh244921&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
